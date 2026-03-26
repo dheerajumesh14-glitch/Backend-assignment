@@ -34,8 +34,17 @@ Run locally:
 - Frontend: http://localhost:5173  
 
 ---
+##  Demo Credentials
 
+Use the following credentials:
+
+Email: test@example.com  
+Password: 123456  
+
+Or you can register a new user using the Register API.
 ##  API Endpoints
+
+---
 
 ### Auth
 - POST /api/v1/auth/register  
@@ -55,14 +64,6 @@ Run locally:
 - Clean and responsive UI  
 
 ---
-##  Demo Credentials
-
-Use the following credentials:
-
-Email: test@example.com  
-Password: 123456  
-
-Or you can register a new user using the Register API.
 
 
 
